@@ -12,7 +12,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "主标题",
     url: "http://www.your-web-page.com/",
-    icon: "",
+    icon: "https://img.camelitol.com/file/f7df8ad7a638127e1afd7.png",
     color: "#0171CD",
   },
   {
